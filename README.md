@@ -15,9 +15,9 @@ Simon Game is a classic memory game where players must remember and repeat a seq
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
+- HTML 5
+- CSS 3
+- JavaScript ES6
 - jQuery
 
 
